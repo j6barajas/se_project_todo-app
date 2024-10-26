@@ -1,10 +1,10 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This applications allows users to create a todo list.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Users can create new todo items that have a name and a date. A checkbox allows users to mark todo items as completed.
 
 ## Technology
 

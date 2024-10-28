@@ -41,9 +41,9 @@ export class FormValidator {
 
   _checkInputValidity(inputElement) {
     if (!inputElement.validity.valid) {
-      _showInputError(inputElement);
+      this._showInputError(inputElement);
     } else {
-      _hideInputError(inputElement);
+      this._hideInputError(inputElement);
     }
   }
 
@@ -59,8 +59,8 @@ export class FormValidator {
 
     this._inputList.forEach((inputElement) => {
       inputElement.addEventListener("input", () => {
-        checkInputValidity(inputElement);
-        toggleButtonState();
+        this._checkInputValidity(inputElement);
+        this._toggleButtonState();
       });
     });
   }

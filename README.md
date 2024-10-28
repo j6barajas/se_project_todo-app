@@ -8,10 +8,10 @@ Users can create new todo items that have a name and a date. A checkbox allows u
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+This project took advantage of OOP's emphasis on classes to create a dynamic website using Javascript.
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+https://j6barajas.github.io/se_project_todo-app/

@@ -11,8 +11,6 @@ export class TodoCounter {
     this._updateText();
   };
 
-  // Call this when a to-do is deleted, or when a to-do is
-  // created via the form.
   updateTotal = (increment) => {
     this._total += increment ? 1 : -1;
     this._updateText();

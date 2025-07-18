@@ -1,12 +1,10 @@
 # Simple Todo App
 
-This applications allows users to create a todo list. Users can create new todo items that have a name and a date. A checkbox allows users to mark todo items as completed.
+This applications allows users to create a todo list. Users can create new todo items that have a name and a date. A checkbox allows users to mark todo items as completed, 
 
-## Technical Features
+## Technologies and Techniques
 
-- Semantic HTML
-- CSS structured in blocks
-- Javascript classes and form validation
+Object-oriented programming was the focus while coding, with the Javascript broken down into components consisting of classes. Each class has public and private methods that aided in adding interactivity to the app. For example, one component is used to generate todo items with their event listeners and interactive elements set. 
 
 ## Images
 

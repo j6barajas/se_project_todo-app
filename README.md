@@ -10,6 +10,12 @@ This applications allows users to create a todo list. Users can create new todo 
 
 ## Images
 
+<img width="1361" height="667" alt="todo main" src="https://github.com/user-attachments/assets/74fd5b83-cd11-4759-86a1-6d4a2fa015ad" />
+
+<img width="497" height="358" alt="form 1" src="https://github.com/user-attachments/assets/f48bad2f-0e26-4ab4-b2ef-03d4a752235a" />
+
+<img width="497" height="359" alt="form 2" src="https://github.com/user-attachments/assets/d5708ec3-99b6-4ebd-a09e-7974489685f0" />
+
 ## Links
 
 Github pages: https://j6barajas.github.io/se_project_todo-app/
